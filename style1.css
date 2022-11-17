@@ -10,7 +10,9 @@
   background-color: bisque;
   
 }
-
+.cont{
+  font-family: 'Freehand', cursive;
+}
 .navbar{
    background: #131313;
    height: 80px;
@@ -146,4 +148,15 @@
 .poza3{
   height: 30%;
   width: 40%;
+}
+.locPizza{
+  color: aliceblue;
+}
+.add:hover{
+  background: #ff0844;
+  transition: all 0.3s ease;
+
+}
+.continut{
+  color: aliceblue;
 }
