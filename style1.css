@@ -6,13 +6,12 @@
 
 
 }
-.fundal1{
-  background-color: bisque;
-  
-}
+
 .cont{
   font-family: 'Freehand', cursive;
+  color: aquamarine;
 }
+
 .navbar{
    background: #131313;
    height: 80px;
@@ -63,9 +62,6 @@
   text-decoration: none;
   font-size: 2rem;
 
-}
-.fa-gem{
-  margin-right: 0.5rem;
 }
 .navbarMenu{
   display: flex;
@@ -131,24 +127,7 @@
 .navbarLinks1:hover{
   color: #ff0844;
   transition: all 0.3s ease;}
-/*.locPizza{
-  border: 1px solid black;
-}
-.spatiuPizza{
-  border: 1px solid black;
-}*/
-.poza1{
-  height: 50%;
-  width: 50%;
-}
-.poza2{
-  height: 50%;
-  width: 50%;
-}
-.poza3{
-  height: 30%;
-  width: 40%;
-}
+
 .locPizza{
   color: aliceblue;
 }
@@ -158,5 +137,16 @@
 
 }
 .continut{
+  color: aliceblue;
+}
+.text{
+  color: aliceblue;
+
+}
+.add:hover{
+  -moz-text-decoration-color: #ff0844;
+  transition: all 0.3s ease;
+}
+.add{
   color: aliceblue;
 }
