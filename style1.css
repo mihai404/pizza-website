@@ -150,3 +150,25 @@
 .add{
   color: aliceblue;
 }
+/*.scris{
+  background-image: url(./poze/fundal1.0.png);
+  margin: 13px;
+  position: relative;
+  display: inline-block;
+}*/
+.text1{
+  background-image: url(./poze/fundal1.0.png);
+  /*margin: 50px;*/
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+#oferta1{
+ /* width: 35%;
+  height: 370%;
+  float: left;*/
+  position: absolute;
+	bottom: 0%;
+	left: 0;
+  width: 40%;
+}
