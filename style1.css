@@ -175,3 +175,12 @@
 .navbar-brand{
   color: aliceblue;
 }
+.ssd{
+  color: aliceblue;
+}
+#oferta2{
+ position: absolute;
+ right: 0%;
+ bottom: 0%;
+ height: 80%;
+}
